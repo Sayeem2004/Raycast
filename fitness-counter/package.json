@@ -8,12 +8,6 @@
     "license": "MIT",
     "commands": [
         {
-            "name": "update",
-            "title": "Update Counter",
-            "description": "Decrement or increment a counter.",
-            "mode": "view"
-        },
-        {
             "name": "start",
             "title": "Start Counter",
             "description": "Start a new counter.",
